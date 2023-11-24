@@ -1,7 +1,7 @@
 {
     "name": "Cabinet Painting Calculator",
     "short_name": "Cabinet Calculator",
-    "start_url": "calculator_PRICE.html",
+    "start_url": "index.html",
     "display": "standalone",
     "icons": [
         {
